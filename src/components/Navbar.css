@@ -1,0 +1,7 @@
+.lines {
+  @apply mx-2 bg-black w-5 my-1 h-0.5;
+}
+
+.menu_names {
+  @apply mx-[13px] mt-1 cursor-pointer text-[13px] hover:underline hover:underline-offset-4;
+}
